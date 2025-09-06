@@ -16,11 +16,11 @@ Our approach is intentionally multi-disciplinary, integrating concepts from:
 All hypotheses are validated against a proprietary simulation environment built to replay historical ITCH data. During the buildout of our primary Kafka pipeline, we supplement our analysis with custom data acquisition tools.
 
 ## Current Research Focus
-Our active areas of investigation include:
+Our research is centered on several key areas within market microstructure::
 - The mechanics of dealer markets and hot-potato trading dynamics.
 - Modeling and detection of illegal spoofing and layering strategies.
 - The formation and behavior of liquidity queues in limit order books.
-- Analysis of foundational models and there connection with current advanced markets.
+- Analysis of foundational models and their connection with current advanced markets.
 
 ## The Group
 Our team's composition includes members with deep domain experience in proprietary trading, low-latency systems development, and quantitative research. This structure allows us to approach problems from both a practitioner's and a researcher's perspective.
